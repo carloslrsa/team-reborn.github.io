@@ -1,0 +1,13 @@
+{
+"companyName": "Lunatics",
+"productName": "TEAM_REBORN",
+"dataUrl": "TEAM_REBORN_WEB.data.unityweb",
+"asmCodeUrl": "TEAM_REBORN_WEB.asm.code.unityweb",
+"asmMemoryUrl": "TEAM_REBORN_WEB.asm.memory.unityweb",
+"asmFrameworkUrl": "TEAM_REBORN_WEB.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
