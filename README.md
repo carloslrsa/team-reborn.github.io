@@ -5,10 +5,8 @@ WASD: Movimiento del personaje
 
 Shift: Correr
 
-I: Inventario
-
-V: Equipamento
+Tab: Inventario y Equipamento
 
 Mouse: Rotacion del personaje
 
-Click derecho: Recoger objetos - Talar arboles (3 a 5 clicks)
+Click derecho: Recoger objetos - Talar arboles, picar piedras (3 a 5 clicks)
